@@ -1,0 +1,57 @@
+
+[
+  {
+    "id": "1",
+    "name": "Air max",
+    "brand": "Nike",
+    "price": 129.99,
+    "category": "Lifestyle",
+    "description": "A classic everyday sneaker with a clean design and comfortable fit.",
+    "image": "/images/sneaker 3.WEBP"
+  },
+  {
+    "id": "2",
+    "name": "NIKE DUNKS",
+    "brand": "Nike",
+    "price": 109.99,
+    "category": "Running",
+    "description": "A lightweight sneaker designed for everyday movement and comfort.",
+    "image": "/images/sneaker 1.WEBP"
+  },
+  {
+    "id": "3",
+    "name": "AIR MAX",
+    "brand": "Nike",
+    "price": 159.99,
+    "category": "Basketball",
+    "description": "A retro-inspired high-top sneaker with a bold basketball look.",
+    "image": "/images/sneaker 2.WEBP"
+  },
+  {
+    "id": "4",
+    "name": "RUNNING SHOES",
+    "brand": "New Balance",
+    "price": 119.99,
+    "category": "Lifestyle",
+    "description": "ALL RUNNING SHOES FOR THE PRICE OF 119.99",
+    "image": "/images/sneaker banner.WEBP"
+  },
+  {
+    "id": "5",
+    "name": "Air jordan 3s",
+    "brand": "jordan",
+    "price": 139.99,
+    "category": "Basketball",
+    "description": "A court-inspired sneaker that combines classic style and versatility.",
+    "image": "/images/sneaker 5.WEBP"
+  },
+  {
+    "id": "6",
+    "name": "speed cats",
+    "brand":"puma", 
+    "price": 89.99,
+    "category": "Lifestyle",
+    "description": "A modern everyday sneaker with a sporty and flexible design.",
+    "image": "/images/sneaker 6.WEBP"
+  }
+]
